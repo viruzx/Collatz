@@ -1,7 +1,6 @@
 #Collatz Conjecture
 
 This is the Collatz Conjecture.
-
 Written when bored.
 
 Takes a number at messes around with it until it becomes one.
